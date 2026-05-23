@@ -15,8 +15,6 @@ https://youtu.be/ioE4iKD4M1E?si=1uMSMSfk6xbSUyhZ
 ## Installation
 
 The geometry node setup is inside the given blender file.
-<<<<<<< HEAD
-
 
 ## License
 
@@ -25,5 +23,4 @@ You are free to use this project for personal and educational purposes.
 You may not sell, redistribute, or package this project (or modified versions of it) as a standalone product.
 
 You may use it inside larger projects where it is not the primary value of the product.
-=======
->>>>>>> 56c600228f7e7bf7492fc9f469ddd270fff4c37f
+
