@@ -2,6 +2,10 @@
 
 This is a Blender Geometry Nodes setup that converts normal meshes into meshes made entirely of cube instances.
 
+# Release Video
+
+https://youtu.be/ioE4iKD4M1E
+
 ## Features
 
 - Preserves materials  
