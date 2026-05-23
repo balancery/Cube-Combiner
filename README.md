@@ -4,7 +4,7 @@ This is a Blender Geometry Nodes setup that converts normal meshes into meshes m
 
 # Release Video
 
-https://youtu.be/ioE4iKD4M1E
+https://youtu.be/ioE4iKD4M1E?si=1uMSMSfk6xbSUyhZ
 
 ## Features
 
